@@ -1,4 +1,4 @@
-# ICS2O-Template-HTML
+# ICS2O-Space-Ailens
 
 [![GitHub's Super Linter](https://github.com/MT-Aiden/ICS2O-Template/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/MT-Aiden/ICS2O-Template/actions)
 
