@@ -49,4 +49,3 @@ game.scene.add("gameScene", gameScene)
 
 // the start scene
 game.scene.start("splashScene")
-
